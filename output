@@ -1,0 +1,30 @@
+Enter the item to be pushed:50
+
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice:1
+Enter the item to be pushed:52
+
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice:3
+The top item is:52
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice:4
+Stack contents are:52 50
+1.Push
+2.Pop
+3.Peek
+4.Display
+5.Exit
+Enter your choice:5
